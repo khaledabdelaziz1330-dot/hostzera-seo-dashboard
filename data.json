@@ -4,8 +4,8 @@
       "id": "d1",
       "task": "Fix Windows VPS page — returns 500 error",
       "priority": "URGENT",
-      "done": false,
-      "date": ""
+      "done": true,
+      "date": "Apr 5"
     },
     "d2": {
       "id": "d2",
