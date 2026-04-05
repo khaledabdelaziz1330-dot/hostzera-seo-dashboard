@@ -11,8 +11,8 @@
       "id": "d2",
       "task": "Fix About page — returns 403 error",
       "priority": "URGENT",
-      "done": false,
-      "date": ""
+      "done": true,
+      "date": "Apr 5"
     },
     "d3": {
       "id": "d3",
